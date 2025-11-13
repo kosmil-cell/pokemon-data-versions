@@ -1,0 +1,12 @@
+{
+  "tiers": {
+    "version": 2,
+    "updated": "2025-11-11",
+    "filename": "tiers_v2.db"
+  },
+  "pokemon": {
+    "version": 1,
+    "updated": "2025-11-13",
+    "filename": "pokemon_v1.db"
+  }
+}
