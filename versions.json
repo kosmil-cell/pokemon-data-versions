@@ -1,8 +1,8 @@
 {
   "tiers": {
-    "version": 2,
-    "updated": "2025-11-11",
-    "filename": "tiers_v2.db"
+    "version": 3,
+    "updated": "2025-11-25",
+    "filename": "tiers_v3.db"
   },
   "pokemon": {
     "version": 3,
