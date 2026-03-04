@@ -6,10 +6,10 @@
     "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v17.db"
   },
   "pokemon": {
-    "version": 3,
-    "updated": "2025-11-13",
-    "filename": "pokemon_v3.db",
-    "csv_hash": "2d4d38d473270d96f7840c3d8578ccc4ba20b4d56e204aaaf5dc7ea574d9d8aa"
+    "version": 4,
+    "updated": "2026-03-04",
+    "filename": "pokemon_v4.db",
+    "csv_hash": "50e1ddaf03c56f9a8842b58da2f07cf13a05f6da015eb33abdf0f3865f4e4fc3"
   },
   "showdown_stats": {
     "version": 5,
