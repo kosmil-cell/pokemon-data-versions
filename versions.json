@@ -1,9 +1,9 @@
 {
   "tiers": {
-    "version": 20,
-    "updated": "2026-04-03",
-    "filename": "tiers_v20.db",
-    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v20.db"
+    "version": 21,
+    "updated": "2026-04-05",
+    "filename": "tiers_v21.db",
+    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v21.db"
   },
   "pokemon": {
     "version": 3,
