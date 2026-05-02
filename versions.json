@@ -18,9 +18,9 @@
     "csv_hash": "2d4d38d473270d96f7840c3d8578ccc4ba20b4d56e204aaaf5dc7ea574d9d8aa"
   },
   "showdown_stats": {
-    "version": 6,
-    "updated": "2026-04-02",
-    "filename": "showdown_stats_v6.db",
-    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/showdown_stats/showdown_stats_v6.db"
+    "version": 7,
+    "updated": "2026-05-02",
+    "filename": "showdown_stats_v7.db",
+    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/showdown_stats/showdown_stats_v7.db"
   }
 }
