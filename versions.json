@@ -22,5 +22,11 @@
     "updated": "2026-05-02",
     "filename": "showdown_stats_v7.db",
     "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/showdown_stats/showdown_stats_v7.db"
+  },
+  "showdown_stats_v2": {
+    "version": 1,
+    "updated": "2026-05-04",
+    "filename": "showdown_stats_v1.db",
+    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/showdown_stats_v2/showdown_stats_v1.db"
   }
 }
