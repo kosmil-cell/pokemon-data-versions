@@ -6,10 +6,10 @@
     "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v49.db"
   },
   "tiers_v2": {
-    "version": 29,
-    "updated": "2026-08-02",
-    "filename": "tiers_v29.db",
-    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers_v2/tiers_v29.db"
+    "version": 30,
+    "updated": "2026-08-10",
+    "filename": "tiers_v30.db",
+    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers_v2/tiers_v30.db"
   },
   "pokemon": {
     "version": 3,
