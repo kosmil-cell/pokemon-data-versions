@@ -1,9 +1,9 @@
 {
   "tiers": {
-    "version": 49,
-    "updated": "2026-08-10",
-    "filename": "tiers_v49.db",
-    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v49.db"
+    "version": 50,
+    "updated": "2026-08-12",
+    "filename": "tiers_v50.db",
+    "downloadUrl": "https://team-factory-auth.kntsesmelis.workers.dev/tiers/tiers_v50.db"
   },
   "tiers_v2": {
     "version": 30,
